@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multi-layer-tests-in-spring.iml" filepath="$PROJECT_DIR$/.idea/modules/multi-layer-tests-in-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multi-layer-tests-in-spring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/multi-layer-tests-in-spring_main.iml" group="multi-layer-tests-in-spring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multi-layer-tests-in-spring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/multi-layer-tests-in-spring_test.iml" group="multi-layer-tests-in-spring" />
+    </modules>
+  </component>
+</project>
